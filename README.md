@@ -1,5 +1,7 @@
 # Video upload and playback stream with NextJS
 
+# Reference - [link](https://www.youtube.com/watch?v=Jl2OmUqDpEQ)
+
 ## What are we building?
 1. Video upload stream with `createWriteStream`
 2. Video watch stream with `createReadStream`
